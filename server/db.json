@@ -1,0 +1,51 @@
+{
+  "laptops": [
+    {
+      "id": 1,
+      "name": "ACER",
+      "win-code": 1.2312312312487237e+24,
+      "image": "https://login.kg/image/catalog/new/Notebook/Asus/ROG%20Strix%20Scar%2015/8.jpg",
+      "price": 1000,
+      "brand": "ACER",
+      "description": "SUPER LAPTOP"
+    },
+    {
+      "name": "ggg",
+      "description": "gdgg",
+      "price": "1000",
+      "trend": "APPLE",
+      "image": "https://istore.kg/media/products/macbook-air-space-gray-select-201810.webp",
+      "win-code": 1.2312312312487237e+24,
+      "id": 4
+    },
+    {
+      "name": "gggrqefef",
+      "description": "gdggvsferes",
+      "price": "10001",
+      "trend": "APPLE",
+      "image": "https://istore.kg/media/products/macbook-air-space-gray-select-201810.webp",
+      "win-code": 1.2312312312487237e+24,
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "name": "ACER",
+      "win-code": 1.2312312312487237e+24,
+      "image": "https://login.kg/image/catalog/new/Notebook/Asus/ROG%20Strix%20Scar%2015/8.jpg",
+      "price": 1000,
+      "brand": "ACER",
+      "description": "SUPER LAPTOP",
+      "id": 1
+    },
+    {
+      "name": "ACER",
+      "win-code": 1.2312312312487237e+24,
+      "image": "https://login.kg/image/catalog/new/Notebook/Asus/ROG%20Strix%20Scar%2015/8.jpg",
+      "price": 1000,
+      "brand": "ACER",
+      "description": "SUPER LAPTOP",
+      "id": 2
+    }
+  ]
+}
